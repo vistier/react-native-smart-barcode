@@ -1,3 +1,7 @@
+# 该分支去修复的问题
+ PropTypes 使用prop-types库中的
+
+
 # react-native-smart-barcode
 
 [![npm](https://img.shields.io/npm/v/react-native-smart-barcode.svg)](https://www.npmjs.com/package/react-native-smart-barcode)
